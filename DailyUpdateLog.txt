@@ -1,3 +1,8 @@
+Day 13 : 9 July, 11:24 PM
+1. Continued with studying the PySyft's web socket server and client implementations for federated learning.
+2. Picked up a bug from PySyft issue list related to Web Sockets to work on. https://github.com/OpenMined/PySyft/issues/2281
+3. Created a daily update log of #60daysofudacity challenge in my github repository https://github.com/amit-rastogi/60DaysofUdacity.git
+
 Day 12 : 8 July, 11:41 PM
 1. Continued with Lesson 9 - Encrypted deep learning. Completed lectures till "Project Demo - Build an Encrypted Database"
 2. Studied about web sockets w.r.t the PySyft websocket federated learning implementation
