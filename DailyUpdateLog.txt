@@ -1,3 +1,7 @@
+Day 15 : 11 July, 11:20 PM
+1. Completed the video lectures of Lesson 9 : Encrypted deep learning
+2. Converted my earlier implementation of federated learning using a secured aggregrator into an encrypted federated learning using a crypto provider. Code is uploaded on my github repository -   https://github.com/amit-rastogi/60DaysofUdacity/blob/master/EncryptedDeepLearning/EncryptedFederatedLearning.ipynb 
+
 Day 14 : 10 July, 9:54 PM 
 1. Continued with Lesson 9 : Encrypted deep learning
 2. Started reading about image classification using pre-trained models in pytorch.
