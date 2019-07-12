@@ -1,3 +1,6 @@
+Day 16 : 12 July, 11:57 PM
+Explored the PySyft's local autograd functionality and read about secured multi-party computation as a follow-up to the encrypted deep learning lesson 9.
+
 Day 15 : 11 July, 11:20 PM
 1. Completed the video lectures of Lesson 9 : Encrypted deep learning
 2. Converted my earlier implementation of federated learning using a secured aggregrator into an encrypted federated learning using a crypto provider. Code is uploaded on my github repository -   https://github.com/amit-rastogi/60DaysofUdacity/blob/master/EncryptedDeepLearning/EncryptedFederatedLearning.ipynb 
