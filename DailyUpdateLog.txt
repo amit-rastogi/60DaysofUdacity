@@ -1,3 +1,7 @@
+Day 17 : 13 July, 11:10 PM
+1. Studied Private Deep Learning with MPC using this link https://mortendahl.github.io/2017/04/17/private-deep-learning-with-mpc/
+2. Started working on the PySyft issue related to Web Sockets https://github.com/OpenMined/PySyft/issues/2281
+
 Day 16 : 12 July, 11:57 PM
 Explored the PySyft's local autograd functionality and read about secured multi-party computation as a follow-up to the encrypted deep learning lesson 9.
 
