@@ -32,31 +32,33 @@ Day 9 : 5 July, 9:36 PM
 1. Continued with Lesson  6 - "Differential privacy for deep learning"
 2. Worked on an OpenMined PySyft issue https://github.com/OpenMined/PySyft/issues/2333
 
-The below updates have been taken from my twitter account (Handle - @amitrastogi2202) since slack couldn't show updates before Day 9 in its search results. 
+The below updates have been taken from the #60daysofudacity slack channel archive 
 
-Day 8 : 4 July 
-1. Continued with Lesson  6 - "Differential privacy for deep learning". Specifically completed chapters 6.3 (generating differentially private labels for dataset) and 6.4 (PATE analysis)
-2. Worked on adding version attribute to syft so that PySyft users could use syft.__version__ to retrieve the version of PySyft they are using. Created a PR for the same https://github.com/OpenMined/PySyft/pull/2335
+Day 8 : 4 July, 22:56
+1. Continued with Lesson 6 - "Differential privacy for deep learning". Specifically completed chapters 6.3 (generating differentially private labels for dataset) and 6.4 (PATE analysis)
+2. Worked on adding version attribute to syft so that PySyft users could use syft._version_ to retrieve the version of PySyft they are using. Created a PR for the same https://github.com/OpenMined/PySyft/pull/2335
 
-Day 7 : 3 July
+Day 7 : 3 July, 23:03
 1. Started with Lesson 6 - Differential privacy for deep learning.
 2. Studied about pytorch autograd and debugged some code using basic operations on autograd enabled tensors to understand autograd
 
-Day 6 : 2 July
-Completed lesson 5 "Introducing Local and Global Differential Privacy". Implemented the project demo to create a global differentially private query using laplacian noise. Code uploaded on github. https://github.com/amit-rastogi/60DaysofUdacity/blob/master/DifferentialPrivacy/GlobalDifferentialPrivacy.ipynb
+Day 6 : 2 July, 22:54
+1. Completed lesson 5 "Introducing Local and Global Differential Privacy". Implemented the project demo to create a differentially private query using laplacian noise. Code uploaded on github. https://github.com/amit-rastogi/60DaysofUdacity/blob/master/DifferentialPrivacy/GlobalDifferentialPrivacy.ipynb
+2. My first PR for the Openmined Grid project also got approved and merged into the dev branch - https://github.com/OpenMined/Grid/pull/250
 
-Day 5: 1 July
-Continued lesson 5 "Introducing Local and Global Differential Privacy" Covered how to vary amount of noise to be added for local differential privacy and de-skew results accordingly. Updated code on github. https://github.com/amit-rastogi/60DaysofUdacity/blob/master/DifferentialPrivacy/LocalDifferentialPrivacy.ipynb
+Day 5: 1 July, 20:12
+Continued on Lesson 5. Covered how to vary the amount of noise to be added for local differential privacy and de-skew results appropriately. Updated my code on github https://github.com/amit-rastogi/60DaysofUdacity/blob/master/DifferentialPrivacy/LocalDifferentialPrivacy.ipynb
 
-Day 4: 30 June
-Completed lesson 4 "Evaluating the privacy of a function". Started lesson 5 "Introducing Local and Global Differential Privacy". Implemented project demo for local differential privacy and uploaded on github. https://github.com/amit-rastogi/60DaysofUdacity/blob/master/DifferentialPrivacy/LocalDifferentialPrivacy.ipynb
+Day 4: 30 June, 21:28
+Completed lesson 4 "Evaluating the privacy of a function". Started lesson 5 "Introducing Local and Global Differential Privacy". Implemented project demo for local differential privacy and uploaded on github https://github.com/amit-rastogi/60DaysofUdacity/blob/master/DifferentialPrivacy/LocalDifferentialPrivacy.ipynb
 
-Day 3: 29 June
-Completed project demo for Lesson 8.2. Implemented a fully connected 2 layer binary classifier on a toy dataset using federated learning and a trusted model aggregator. Code uploaded on github. https://github.com/amit-rastogi/60DaysofUdacity/blob/master/SecuringFederatedLearning/FederatedLearningWithTrustedAggregrator.ipynb
+Day 3: 29 June, 21:04
+Completed the project demo for "Federated learning with Trusted aggregrator" in Lesson 8.2. Implemented code to train a fully connected 2 layer binary classifier model on a toy dataset using federated learning on remote workers and aggregrating the trained models on a trusted worker. Code uploaded on my github repository https://github.com/amit-rastogi/60DaysofUdacity/blob/master/SecuringFederatedLearning/FederatedLearningWithTrustedAggregrator.ipynb
 
-Day 2: 28 June
-Completed lesson 3 "Introducing differential privacy". Started lesson 4 "Evaluating the privacy of a function". Uploaded sample code for empirical calculation of sensitivity of sum & mean query on https://github.com/amit-rastogi/60DaysofUdacity
+Day 2: 28 June, 23:33
+Day 2: Completed lesson 3 "Introducing differential privacy" and started with lesson 4 "Evaluating the privacy of a function". Created sample program for empirical calculation of sensitivity of a sum and mean query. I am uploading my sample programs to my github repository https://github.com/amit-rastogi/60DaysofUdacity.git
 
-Day 1: 27 June
+Day 1: 27 June, 21:06
 Took the pledge for the #60DaysofUdacity challenge starting today.
-Started with the OpenMined Grid project. Did the code setup on my machine and debugged the tutorial code.
+Day 1: Started going through the OpenMined Grid project. Did the code setup on my machine and debugged the sample code. Grid is a peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft.
+https://github.com/OpenMined/Grid
