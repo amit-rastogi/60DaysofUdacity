@@ -1,3 +1,6 @@
+Day 18 : 14 July, 10:29 PM
+Studied about Convolutional neural network and downloaded the Eye disease dataset from kaggle and started with image pre-processing for training a CNN for predicting eye diseases. 
+
 Day 17 : 13 July, 11:10 PM
 1. Studied Private Deep Learning with MPC using this link https://mortendahl.github.io/2017/04/17/private-deep-learning-with-mpc/
 2. Started working on the PySyft issue related to Web Sockets https://github.com/OpenMined/PySyft/issues/2281
