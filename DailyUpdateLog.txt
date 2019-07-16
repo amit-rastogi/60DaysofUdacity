@@ -1,3 +1,6 @@
+Day 20 : 16 July, 11:14 PM
+Implemented a simple CNN classifier for the Eye disease dataset from kaggle for predicting eye diseases which is also the goal for the week for our study group #sg_intro-ai-challenge. Currently it's a simple CNN model and I would be working on this model further to add more convolutional, pooling layers and dropout layers. I have uploaded the code on github https://github.com/amit-rastogi/60DaysofUdacity/blob/master/sg_intro-ai-challenge/Predicting%20Human%20eye%20diseases.ipynb
+
 Day 19 : 15 July, 11:27 PM
 1. Continued studying about CNN's. Getting a hang around using the correct shapes for the Conv2D and fully connected layers for a reshaped image in Pytorch. Would be applying the same on the Eye disease dataset from kaggle for predicting eye diseases which is also the goal for the week for our study group #sg_intro-ai-challenge.
 2. Would like to encourage @Stark and @J. Luis Samper for today
