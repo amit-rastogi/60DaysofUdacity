@@ -1,4 +1,7 @@
-Day 21 : 11:34 PM
+Day 22 : 18 July, 11:54 PM
+Worked further on the CNN model for the eye disease dataset from kaggle as part of the #sg_intro-ai-challenge project and added more convolutional and pooling layers. Also added dropout layers. Added logic to generate confusion matrix to check the model accuracy. Code has been updated on my github repository  https://github.com/amit-rastogi/60DaysofUdacity/blob/master/sg_intro-ai-challenge/Predicting%20Human%20eye%20diseases.ipynb
+
+Day 21 : 17 July, 11:34 PM
 1. Continued studying CNN implementation using Pytorch.
 2. Attended the online meetup of our study group #sg_intro-ai-challenge.
 
