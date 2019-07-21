@@ -1,3 +1,7 @@
+Day 24 : 21 July, 8:19 PM
+1. Worked on building a CNN model in Pytorch with MNIST dataset from kaggle.
+2. Learnt creating a custom dataset class in Pytorch which can create a torchvision like dataset interface for custom datasets.
+
 Day 23 : 19 July, 11:04 PM
 1. Completed the course today.
 2. Read about how to handle overfitting in a CNN model.
