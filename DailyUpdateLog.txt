@@ -1,3 +1,6 @@
+Day 25 : 22 July, 11:07 PM
+Worked on implementing a custom Pytorch dataset class for creating a dataset\dataloader kind of interface for reading MNIST data from csv file from kaggle. Currently work is in progress.
+
 Day 24 : 21 July, 8:19 PM
 1. Worked on building a CNN model in Pytorch with MNIST dataset from kaggle.
 2. Learnt creating a custom dataset class in Pytorch which can create a torchvision like dataset interface for custom datasets.
