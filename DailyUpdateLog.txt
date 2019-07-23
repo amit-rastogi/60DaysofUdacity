@@ -1,3 +1,7 @@
+Day 26 : 23 July, 10:40 PM
+1. Completed the implementation of my custom Pytorch MNIST dataset class for kaggle data and trained a CNN model using the Dataset\Dataloader interface. Due to this custom dataset class I was also able to apply the torchvision Transforms operations to the dataset. However, the model could only score 0.92 on kaggle which didn't turnout to be better than the CNN model I had created earlier without using this custom dataset class which was around 0.98.
+2. Would like to encourage @J. Luis Samper and @Stark today   
+
 Day 25 : 22 July, 11:07 PM
 Worked on implementing a custom Pytorch dataset class for creating a dataset\dataloader kind of interface for reading MNIST data from csv file from kaggle. Currently work is in progress.
 
