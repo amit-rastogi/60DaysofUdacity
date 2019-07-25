@@ -1,3 +1,7 @@
+Day 28 : 25 July, 11:02 PM
+1. Started studying about generative adversarial networks (GANs)
+2. Worked on a PySyft issue related to websocket client (https://github.com/OpenMined/PySyft/issues/2390) and raised a PR for the same (https://github.com/OpenMined/PySyft/pull/2395)
+
 Day 27 : 24 July, 11:04 PM
 Worked on a PySyft websocket server startup issue on Windows (https://github.com/OpenMined/PySyft/issues/2370) and created a PR for the same. Pull Request link - https://github.com/OpenMined/PySyft/pull/2389
 
