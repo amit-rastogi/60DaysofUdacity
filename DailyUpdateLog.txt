@@ -1,3 +1,6 @@
+Day 30: 27 July, 11:19 PM
+Started working on implementing a DCGAN in Pytorch for generating fake images of cats and dogs.
+
 Day 29 : 26 July, 11:15 PM
 Continued studying about GAN and DCGAN and how to implement discriminator and generator models.
 
