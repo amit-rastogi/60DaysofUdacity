@@ -1,3 +1,8 @@
+Day 31 : 28 July, 9:23 PM
+1. Continued working on the DCGAN implementation in Pytorch for generating fake images of cats and dogs.
+2. Participated in the Kahoot quiz covering #l6_federated_learning conducted by @Michael Sheinman and got 2nd ranking. Good to get some revision of the concepts of this lesson.
+https://image.prntscr.com/image/qdgKRuzkR9qyTGTdyGN1BQ.png  
+
 Day 30: 27 July, 11:19 PM
 Started working on implementing a DCGAN in Pytorch for generating fake images of cats and dogs.
 
