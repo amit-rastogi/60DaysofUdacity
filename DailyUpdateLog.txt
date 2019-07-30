@@ -1,3 +1,6 @@
+Day 33 : 30 July, 11:56 PM
+Read about PySyft Plan abstraction and went through the example tutorial. https://github.com/OpenMined/PySyft/blob/dev/examples/tutorials/Part%208%20-%20Introduction%20to%20Plans.ipynb 
+
 Day 32 : 29 July, 11:22 PM
 Completed implementation of the DCGAN for generating fake images of cats and dogs. Training is in progress.
 
