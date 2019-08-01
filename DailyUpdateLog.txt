@@ -1,3 +1,6 @@
+Day 35 : 01 Aug, 11:16 PM
+Spent time today on trying out some white hat hacking skills on PySyft. This is the related issue in case someone would be interested to jump in https://github.com/OpenMined/PySyft/issues/2421 
+
 Day 34 : 31 July, 11:53 PM
 Started working on a new feature in PySyft related to Plans https://github.com/OpenMined/PySyft/issues/2385
 
