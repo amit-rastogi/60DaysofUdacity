@@ -1,3 +1,6 @@
+Day 36 : 02 Aug, 8:15 PM
+Started revision of the modules of Secure and Private AI course. Started with Lesson 2 "Deep Learning with Pytorch"
+
 Day 35 : 01 Aug, 11:16 PM
 Spent time today on trying out some white hat hacking skills on PySyft. This is the related issue in case someone would be interested to jump in https://github.com/OpenMined/PySyft/issues/2421 
 
