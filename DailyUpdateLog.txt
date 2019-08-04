@@ -1,3 +1,6 @@
+Day 38: 04 Aug, 11:36 PM
+Went through reinforcement learning tutorials covering topics like Markov Decision Processes, Bellman equation, Q-learning and Deep Q learning (DQN) which uses a neural network to approximate the Q-value function.
+
 Day 37 : 03 Aug, 9:40 PM
 1. Revised Lesson 8 "Securing Federated Learning"
 2. Joined the slack group of the "AWS DeepRacer scholarship challenge" and started going through the AWS DeepRacer videos. 
