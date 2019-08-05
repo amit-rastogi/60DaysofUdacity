@@ -1,3 +1,7 @@
+Day 39 : 05 Aug, 11:13 PM
+1. Spent time on finding security related bug in PySyft as part of https://github.com/OpenMined/PySyft/issues/2421 and opened an issue with web sockets wherein tensors remain in web socket server memory if websocketclient connection closes abruptly. Issue details can be found here https://github.com/OpenMined/PySyft/issues/2442
+2. Attended weekly meetup for the #sg_intro-ai-challenge group and discussed on the ongoing project.
+
 Day 38: 04 Aug, 11:36 PM
 Went through reinforcement learning tutorials covering topics like Markov Decision Processes, Bellman equation, Q-learning and Deep Q learning (DQN) which uses a neural network to approximate the Q-value function.
 
