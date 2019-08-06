@@ -1,3 +1,7 @@
+Day 40 : 06 Aug, 11:29 PM
+1. Revised Lesson 9 "Encrypted Federated Learning"
+2. Read the OpenMined blog post on training a neural network on encrypted values using Secure Multi-Party Computation and Autograd https://blog.openmined.org/encrypted-training-on-mnist/
+
 Day 39 : 05 Aug, 11:13 PM
 1. Spent time on finding security related bug in PySyft as part of https://github.com/OpenMined/PySyft/issues/2421 and opened an issue with web sockets wherein tensors remain in web socket server memory if websocketclient connection closes abruptly. Issue details can be found here https://github.com/OpenMined/PySyft/issues/2442
 2. Attended weekly meetup for the #sg_intro-ai-challenge group and discussed on the ongoing project.
