@@ -1,3 +1,7 @@
+Day 41 : 07 Aug, 11:44 PM
+1. Started going through the Reinforcement Learning course on Udacity offered at Georgia Tech as CS 8803. Lesson 2 in progress.
+2. Studied about face detection techniques 
+
 Day 40 : 06 Aug, 11:29 PM
 1. Revised Lesson 9 "Encrypted Federated Learning"
 2. Read the OpenMined blog post on training a neural network on encrypted values using Secure Multi-Party Computation and Autograd https://blog.openmined.org/encrypted-training-on-mnist/
