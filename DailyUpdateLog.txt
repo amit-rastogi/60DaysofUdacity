@@ -1,3 +1,7 @@
+Day 42 : 08 Aug, 11:24 PM
+1. Continued with Lesson 2 of Reinforcement Learning course on Udacity.
+2. Studied about Named Entity Recognition and Parts of Speech tagging using spacy.
+
 Day 41 : 07 Aug, 11:44 PM
 1. Started going through the Reinforcement Learning course on Udacity offered at Georgia Tech as CS 8803. Lesson 2 in progress.
 2. Studied about face detection techniques 
