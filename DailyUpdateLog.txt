@@ -1,3 +1,6 @@
+Day 44 : 10 Aug, 11:53 PM
+Worked on the PySyft ticket related to implementing stateful plans https://github.com/OpenMined/PySyft/issues/2385
+
 Day 43 : 09 Aug, 11:29 PM
 1. Read about Secure Multi-Party Computation and SPDZ protocol.
 2. Continued with NLP covering tokenization, stemming and lemmatization today.
