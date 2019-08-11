@@ -1,5 +1,6 @@
 Day 45 : 11 Aug, 11:48 PM
 Continued working on the PySyft ticket related to implementing stateful plans https://github.com/OpenMined/PySyft/issues/2385
+In the process learnt about decorators in Python which is used to create plans in the PySyft code. They are very powerful constructs for hooking to function behaviors.
 
 Day 44 : 10 Aug, 11:53 PM
 Worked on the PySyft ticket related to implementing stateful plans https://github.com/OpenMined/PySyft/issues/2385
