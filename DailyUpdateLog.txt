@@ -1,4 +1,4 @@
-Day 45 : 11 Aug
+Day 45 : 11 Aug, 11:48 PM
 Continued working on the PySyft ticket related to implementing stateful plans https://github.com/OpenMined/PySyft/issues/2385
 
 Day 44 : 10 Aug, 11:53 PM
