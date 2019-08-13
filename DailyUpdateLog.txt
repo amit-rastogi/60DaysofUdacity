@@ -1,3 +1,7 @@
+Day 47 : 13 Aug, 11:21 PM
+Went through the pytorch tutorial in the link below for training a neural network to translate from French to English   
+https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+
 Day 46 : 12 Aug, 11:28 PM
 Studied about Recurrent neural network, LSTM, sequence to sequence network and attention mechanism.
 
