@@ -1,3 +1,6 @@
+Day 50 : 16 Aug, 11:42 PM
+Continued working on the implementation of the seq2seq model using Pytorch. Completed the data pre-processing part using the Cornell Movie-Dialogs Corpus dataset . Started working on implementation of the encoder-decoder.
+
 Day 49 : 15 Aug, 10:36 PM  
 Read the following pytorch tutorials -
 1. classifying names with a character level RNN https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
