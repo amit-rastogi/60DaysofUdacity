@@ -1,3 +1,6 @@
+Day 51 : 17 Aug, 11:38 PM
+Continued working on the code for the implementation of the seq2seq model using Pytorch.
+
 Day 50 : 16 Aug, 11:42 PM
 Continued working on the implementation of the seq2seq model using Pytorch. Completed the data pre-processing part using the Cornell Movie-Dialogs Corpus dataset . Started working on implementation of the encoder-decoder.
 
