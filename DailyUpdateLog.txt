@@ -1,3 +1,6 @@
+Day 52 : 18 Aug, 11:25 PM
+Started working on the Project Showcase Challenge.
+
 Day 51 : 17 Aug, 11:38 PM
 Continued working on the code for the implementation of the seq2seq model using Pytorch.
 
