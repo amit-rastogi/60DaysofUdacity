@@ -1,3 +1,8 @@
+Day 55 : 21 Aug, 11:22 PM
+Revised the concepts of encrypted training using PySyft by studying the following articles on openmined blog-
+1.  https://blog.openmined.org/encrypted-training-on-mnist/
+2. https://blog.openmined.org/encrypted-deep-learning-classification-with-pysyft/ 
+
 Day 54 : 20 Aug, 8:01 PM
 Continued working on the Project Showcase Challenge and submitted it today. https://github.com/aksht94/UdacityOpenSource/tree/master/amit.rastogi
 
