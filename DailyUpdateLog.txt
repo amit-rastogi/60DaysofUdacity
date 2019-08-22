@@ -1,3 +1,7 @@
+Day 56 : 22 Aug, 6:00 PM
+Studied a medium article on GAN https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f
+and its pytorch implementation from this github link https://github.com/devnag/pytorch-generative-adversarial-networks
+
 Day 55 : 21 Aug, 11:22 PM
 Revised the concepts of encrypted training using PySyft by studying the following articles on openmined blog-
 1.  https://blog.openmined.org/encrypted-training-on-mnist/
