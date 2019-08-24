@@ -1,3 +1,6 @@
+Day 58 : 24 Aug, 9:16 PM
+Revised Lesson 6 "Differential privacy for deep learning" and Lesson 7 "Federated learning"
+
 Day 57 : 23 Aug, 3:36 PM
 Revised lesson 3 "Introducing differential privacy", lesson 4 "Evaluating the privacy of a function" and lesson 5 "Introducing Local and Global Differential Privacy"
 
