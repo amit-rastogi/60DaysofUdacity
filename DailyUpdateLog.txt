@@ -1,3 +1,8 @@
+Day 60 : 26 Aug, 10:49 PM
+1. Read about how attention is used in machine translation like Google Translate https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
+2. Added my showcase project details on the #project-showcase-challenge channel.
+I have updated my daily logs for #60daysofudacity challenge here - https://github.com/amit-rastogi/60DaysofUdacity/blob/master/DailyUpdateLog.txt
+
 Day 59 : 25 Aug, 8:45 PM
 Revised Lesson 8 "Securing Federated Learning" and Lesson 9 "Encrypted Deep Learning"
 
